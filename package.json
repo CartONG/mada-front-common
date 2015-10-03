@@ -1,0 +1,19 @@
+{
+  "name": "mada-front-common",
+  "version": "1.0.0",
+  "description": " Common assets for mada-onusida-front and mada-atlas-front projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CartONG/mada-front-common.git"
+  },
+  "author": "Erik Escoffier <erik.escoffier@gmail.com> (https://github.com/nerik/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CartONG/mada-front-common/issues"
+  },
+  "homepage": "https://github.com/CartONG/mada-front-common#readme"
+}
